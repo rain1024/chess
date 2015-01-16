@@ -1,0 +1,29 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "authors": [
+    "Vu Anh <brother.rain.1024@gmail.com>"
+  ],
+  "description": "Chess Engine",
+  "main": "index.html",
+  "keywords": [
+    "chess",
+    "ai"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "qunit": "~1.16.0",
+    "ring": "~2.0.2",
+    "underscore": "~1.7.0",
+    "underscore.string": "~2.4.0",
+    "xregexp": "~2.0.0"
+  }
+}
